@@ -1,6 +1,4 @@
-# Convert emoji into text in Python - Converting emoticons or
-emojis into text in Python can be done using thedemoji module. It
-is used to accurately remove and replace emojis in text strings
+# Convert emoji into text in Python - Converting emoticons or emojis into text in Python can be done using thedemoji module. It is used to accurately remove and replace emojis in text strings
 
 pip install demoji
 

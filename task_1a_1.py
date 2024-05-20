@@ -1,5 +1,4 @@
-#Please write a python program to generate all sentences where subject is in ["I", "You"] and verb is in ["Play", "Love"] and the object is in ["Cricket","Ludo"].
-
+# Please write a program to generate all sentences where subject is in ["I", "You"] and verb is in ["Play", "Love"] and the object is in ["Cricket","Ludo"].
 subj=["I", "You"]
 verb=["Play", "Love"]
 obj=["Cricket", "Ludo"]

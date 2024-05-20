@@ -1,3 +1,5 @@
+# Implement simple FLAMES game using Python.
+
 def remove_common_letters(name1, name2):
     for char in name1[:]:
         if char in name2:
